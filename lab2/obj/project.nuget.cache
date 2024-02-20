@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mfTYjXXvpxuwiYLVrgFIgzbaXe3HvJlrQjwAQkpOrtDV5mXK2cRpNuA5H9myGLIq9DxwN6LXcNnPIwg5masiHA==",
+  "success": true,
+  "projectFilePath": "D:\\Project\\lab2\\lab2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GuraL\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\GuraL\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
